@@ -21,5 +21,3 @@
 </div>
 </div>
  
-<img src="https://raw.githubusercontent.com/Willy-Nelson/Willy-Nelson/output/snake.svg" alt="Snake animation" />
-
